@@ -1,0 +1,4 @@
+1,"Lionel Messi",26,205
+2,"Sergi Busquets",20,150,"MyBook","sergi@barca.com"
+3,"Andres Iniesta",30,250,"MyTweets","andres10"
+4,"Cynthia Iradukunda",1,0,"Facebook","c.iradukund@gmail.com"
